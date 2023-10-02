@@ -56,9 +56,9 @@
 *.lcb linguist-detectable=true
 *.lcb linguist-documentation=false
 *.lcb linguist-language=LiveCode
-*.ipt linguist-detectable=true
-*.ipt linguist-documentation=false
-*.ipt linguist-language=LiveCode
+*.livecodescript linguist-detectable=true
+*.livecodescript linguist-documentation=false
+*.livecodescript linguist-language=LiveCode
 # Makefile (GNU Make)
 *.mk linguist-detectable=true
 *.mk linguist-documentation=false
@@ -193,7 +193,7 @@
 # File info
 
 # File type: gitattributes file (*.gitattributes)
-# File version: 5 (2023, Sunday, October 1st at 7:17 pm PST)
+# File version: 6 (2023, Sunday, October 1st at 7:20 pm PST)
 # Line count (including blank lines and compiler line): 200
 
 # End of script
